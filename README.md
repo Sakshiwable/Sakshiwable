@@ -35,19 +35,22 @@
 </p>
 
 ---
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-<img align="right" width="300"
-src="https://github.com/user-attachments/assets/12fc3d78-d44e-4e99-a199-e2f24dbf2118" />
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 
-Hi, I'm Sakshi 👋  
+🎓 **B.Tech Computer Engineering Student** @ MIT Academy of Engineering  
 
-- 🎓 Computer Engineering Student  
-- 💻 Full Stack Developer  
-- 🚀 Passionate about scalable applications  
-- 🏆 Hackathon Winner  
+💻 **Full Stack Developer**  
 
+🚀 Passionate about **building real-world projects and solving practical problems**  
+
+🧠 Currently learning **Data Structures & Algorithms, Cloud, and Backend Development**
+
+🎨 Interested in **Cybersecurity and DevOpst**  
 <br clear="right"/>
+
+---
 
 # 🛠 Tech Stack
 
