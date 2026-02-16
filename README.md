@@ -37,7 +37,7 @@
 ---
 ## 👩‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
 
 🎓 **B.Tech Computer Engineering Student** @ MIT Academy of Engineering  
 
