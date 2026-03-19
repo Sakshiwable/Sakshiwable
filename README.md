@@ -47,7 +47,7 @@
 
 🧠 Currently learning **Data Structures & Algorithms, Cloud, and Backend Development**
 
-🎨 Interested in **Cybersecurity and DevOpst**  
+🎨 Interested in **Cybersecurity and DevOps**  
 <br clear="right"/>
 
 ---
